@@ -50,7 +50,7 @@
 <tspan x="10" y="762">  │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="778">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="794">  │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="810">  │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="810">  │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="826">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="842">  │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="858">  │ │   ├── jsbn@0.1.1 </tspan>
